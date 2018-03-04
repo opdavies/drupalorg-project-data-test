@@ -2,13 +2,7 @@
     "scripts": {
         "run": "php test.php"
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/opdavies/drupalorg-api-php"
-        }
-    ],
     "require": {
-        "opdavies/drupalorg-api-php": "dev-master"
+        "opdavies/drupalorg-api-php": "^0.1"
     }
 }
